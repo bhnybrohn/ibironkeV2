@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+.center{
+      text-shadow: -2px -2px 7px rgba(0, 0, 0, 0.2);
+  font-family: 'Noto Sans JP', sans-serif;
+}
+.textx{
+  font-family: 'Audiowide', cursive;
+}
+.home{
+    background-image: url(https://res.cloudinary.com/xenerr/image/upload/v1609764692/mid1_gomryl.jpg);
+   height: 100%;
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
